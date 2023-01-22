@@ -2,7 +2,7 @@
 
 Comparison: `innerHTML` vs `appendChild()` vs `append()`
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/innerhtml-vs-appendchild-vs-append/>
 
